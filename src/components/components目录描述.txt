@@ -1,0 +1,5 @@
+﻿company             公司管理
+user                用户中心
+finance             财务管理
+report              报表统计
+order               订单管理

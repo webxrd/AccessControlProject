@@ -1,0 +1,5 @@
+﻿receiveCodeReport           收款码报表
+merchantsReport             商户报表
+localTeamReport             供码用户报表
+fundReport                  资金报表
+agencyReport                代理报表

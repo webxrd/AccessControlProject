@@ -1,0 +1,3 @@
+﻿permission              分配权限
+singlePermission        某个职位权限查询
+allPermission           所有权限查询

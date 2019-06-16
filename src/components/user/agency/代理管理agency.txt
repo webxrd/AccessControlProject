@@ -1,0 +1,3 @@
+﻿addAgency           添加代理
+agents              所有代理
+IAgent              我是代理

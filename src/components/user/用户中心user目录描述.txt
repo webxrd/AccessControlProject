@@ -1,0 +1,6 @@
+﻿userInfo            用户信息
+agency              代理管理
+supplierManage      供码用户管理
+merchantManage      商户管理
+bankCardSetting     银行卡设置
+getQrCode           获取二维码

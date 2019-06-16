@@ -1,0 +1,3 @@
+﻿addCardPersonal                 个人添加银行卡
+cardsPersonal                   个人银行卡
+personalExtractMoneyHistory     个人提现历史

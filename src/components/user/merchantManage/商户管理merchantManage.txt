@@ -1,0 +1,5 @@
+﻿addMerchant             添加商户
+waitApprovalMer         审批商户
+merchants               所有商户
+IMerchant               我是商户
+myMerchants             我的商户

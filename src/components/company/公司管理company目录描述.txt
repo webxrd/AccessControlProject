@@ -1,0 +1,25 @@
+﻿
+announcement        公告管理
+information         数据管理
+team                团队管理
+adminManage         管理员管理
+post                岗位管理
+privilege           权限管理
+bankCard            银行卡管理
+riskControl         风控管理
+settings            系统设置
+operations          运营管理
+logDetails          日志明细
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+
+request.js                 ajax请求的全局配置
+目录类型文件：
+    loginAndRegisterApi        登陆注册的请求接口API
+
+    companyManagementApi       公司管理的请求接口API
+    financialManagementApi     财务管理的请求接口API
+    OrderGManagementApi        订单管理的请求接口API
+    reportFormApi              报表统计的请求接口API
+    userCenterApi              用户中心的请求接口API
+
+

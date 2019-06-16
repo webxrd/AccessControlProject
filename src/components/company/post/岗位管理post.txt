@@ -1,0 +1,2 @@
+﻿postAdd         岗位添加
+allPost         所有岗位

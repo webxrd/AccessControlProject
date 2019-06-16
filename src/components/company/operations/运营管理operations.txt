@@ -1,0 +1,5 @@
+﻿addStair                添加通道
+editOperations          修改通道
+terminationOperations   停用通道
+
+
